@@ -1,1 +1,14 @@
 
+.tooltip{
+    margin-block:60px;
+    position: relative;
+
+}
+.tooltiptext{
+    position: absolute;
+    background-color: red;
+    color: white;
+    top: -30px;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
