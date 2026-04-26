@@ -13,9 +13,9 @@ const App = () => {
       </Tooltip>
     </h2>
  <hr/>
- 
+
        <p className="tooltip">
-      <Tooltip text="This is an another tooltip">
+      <Tooltip text="This is another tooltip">
         Hover over me to see another tooltip
       </Tooltip>
     </p>
